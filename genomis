@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+cd /home/mustiko/Desktop/java/currency/out/artifacts/currency_jar
+java -jar currency.jar
